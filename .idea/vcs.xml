@@ -2,5 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../config-server-files" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../springboot-servicio-configserver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../springboot-servicio-gateway-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../springboot-servicio-item" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../springboot-servicio-oauth" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../springboot-servicio-productos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../springboot-servicio-users" vcs="Git" />
   </component>
 </project>

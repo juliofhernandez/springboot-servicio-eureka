@@ -5,8 +5,16 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-servicio-productos/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-servicio-item/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-servicio-gateway-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-servicio-configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-servicio-users/pom.xml" />
+        <option value="$PROJECT_DIR$/../oauth/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-servicio-oauth/pom.xml" />
+        <option value="$PROJECT_DIR$/../springboot-servicio-myservice/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="openjdk-19" project-jdk-type="JavaSDK" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="corretto-21" project-jdk-type="JavaSDK" />
 </project>
